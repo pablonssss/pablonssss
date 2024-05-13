@@ -8,4 +8,4 @@
 - ⚡ Fun fact: ...
 
 <h1 align="center"> Pablo Navarrete </h1>
-![Pulp Fiction best film ever](https://pics.filmaffinity.com/Pulp_Fiction-210382116-mmed.jpg)
+![](https://pics.filmaffinity.com/Pulp_Fiction-210382116-mmed.jpg)
