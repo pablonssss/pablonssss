@@ -9,5 +9,6 @@ Trabajo en **GEOCOM** ([Geocom](https://www.geocom.com.uy/))
 ***También he ejercido tareas de Project Manager y Analista Funcional dentro de la empresa***
 
 _Best Film Ever🥇
+
 ![](https://pics.filmaffinity.com/Pulp_Fiction-210382116-mmed.jpg) 
 
